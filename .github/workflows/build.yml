@@ -1,6 +1,6 @@
 name: Build RSDKv5U
 on:
-  workflow_dispatch
+  push
 
 jobs:
   rsdkv5u:
