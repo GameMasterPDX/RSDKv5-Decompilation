@@ -2,7 +2,7 @@
 
 A complete decompilation of Retro Engine v5 and v5Ultimate.
 
-# **SUPPORT THE DEVELOPERS OF THE RETRO ENGINE**
+# **SUPPOR THE DEVELOPERS OF THE RETRO ENGINE**
 We do not own the Retro Engine in any way, shape or form, and this project would not have been possible had they not developed RSDKv5(U) in the first place. Retro Engine is currently owned by [Evening Star](https://eveningstar.studio/); we highly urge you to follow & support their projects if you enjoyed this project of ours!
 
 ## **DO NOT USE THIS DECOMPILATION PROJECT AS A MEANS TO PIRATE SONIC MANIA OR ANY OTHER RSDKv5(U) GAMES.**
